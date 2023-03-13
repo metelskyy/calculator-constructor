@@ -1,0 +1,9 @@
+.operators {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: 0 4px 7px rgba(16, 18, 19, 0.25);
+  margin-bottom: 12px;
+  border-radius: 4px;
+}
