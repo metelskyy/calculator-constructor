@@ -1,8 +1,10 @@
 .calculatorInput {
   display: flex;
   justify-content: end;
+  align-items: center;
   flex-wrap: wrap;
-  width: 100%;
+  width: 240px;
+  height: 60px;
   border-radius: 4px;
   background-color: #f3f4f6;
   color: #111827;
